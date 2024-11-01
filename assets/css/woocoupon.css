@@ -1,0 +1,2 @@
+.form-field.expiry_date_field { display: none; }
+#woocommerce-coupon-data ul.wc-tabs li.woocoupon_schedule_options a:before, #woocommerce-product-data ul.wc-tabs li.woocoupon_schedule_options a:before, .woocommerce ul.wc-tabs li.woocoupon_schedule_options a:before { content: "\e012"; }
